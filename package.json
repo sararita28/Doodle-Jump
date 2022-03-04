@@ -1,0 +1,19 @@
+{
+  "name": "doodle-jump",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sararita28/Doodle-Jump.git"
+  },
+  "author": "Sara Hilali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sararita28/Doodle-Jump/issues"
+  },
+  "homepage": "https://github.com/sararita28/Doodle-Jump#readme"
+}
